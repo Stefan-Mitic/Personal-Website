@@ -6,28 +6,7 @@
 <head runat="server">
     <meta charset="utf-8" />
     <!-- Place this in a .css file for the style, <link href="./indexstyle.css" type="text/css" rel="stylesheet">-->
-    <style>
-        body {margin:0}
-
-        .topnav a {
-            float: left;
-            color: #f2f2f2;
-            text-align: center;
-            padding: 14px 16px;
-            text-decoration: none;
-            font-size: 17px;
-        }
-
-        .topnav a:hover {
-            background-color: #ddd;
-            color: black;
-        }
-
-        .topnav a.active {
-            background-color: #4CAF50;
-            color: white;
-        }
-    </style>
+    <link href="Content/index.css" rel="stylesheet" type="text/css" />
     <title>Home</title>
 </head>
 <body>
