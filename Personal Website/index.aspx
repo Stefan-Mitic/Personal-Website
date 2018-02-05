@@ -23,11 +23,11 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="#">My Website</a>
+                    <a class="navbar-brand" href="#section1">My Website</a>
                 </div>
                 <div class="collapse navbar-collapse" id="myNavbar">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="#">Home</a></li>
+                        <li class="active"><a href="#section1">Home</a></li>
                         <li><a href="#section2">About</a></li>
                         <li><a href="#section3">Contact</a></li>
                     </ul>
@@ -38,18 +38,18 @@
                 </div>
             </div>
         </nav>
-        <!--Example for information-->
-        <div id="section1" class="container-fluid" style="padding-top: 50px; height: 100vh">
+        <!--Example for information, also note that section1 has a different margin-->
+        <div id="section1" class="container-fluid" style="padding-top: 50px; height: 100vh; width: 100vh">
             <h1>Section 1</h1>
             <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
             <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
         </div>
-        <div id="section2" class="container-fluid" style="padding-top: 50px; height: 100vh">
+        <div id="section2" class="container-fluid" style="padding-top: 50px; height: 100vh; width: 100vh">
             <h1>Section 2</h1>
             <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
             <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
         </div>
-        <div id="section3" class="container-fluid" style="padding-top: 50px; height: 100vh">
+        <div id="section3" class="container-fluid" style="padding-top: 50px; height: 100vh; width: 100vh">
             <h1>Section 3</h1>
             <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
             <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
