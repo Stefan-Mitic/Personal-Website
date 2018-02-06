@@ -38,18 +38,18 @@
                 </div>
             </div>
         </nav>
-        <!--Example for information, also note that section1 has a different margin-->
-        <div id="section1" class="container-fluid" style="padding-top: 50px; height: 100vh; width: 100vh">
+        <!--Example for information-->
+        <div id="section1" class="container-fluid" style="padding-top: 50px; height: 100vh;">
             <h1>Section 1</h1>
             <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
             <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
         </div>
-        <div id="section2" class="container-fluid" style="padding-top: 50px; height: 100vh; width: 100vh">
+        <div id="section2" class="container-fluid" style="padding-top: 50px; height: 100vh;">
             <h1>Section 2</h1>
             <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
             <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
         </div>
-        <div id="section3" class="container-fluid" style="padding-top: 50px; height: 100vh; width: 100vh">
+        <div id="section3" class="container-fluid" style="padding-top: 50px; height: 100vh;">
             <h1>Section 3</h1>
             <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
             <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
