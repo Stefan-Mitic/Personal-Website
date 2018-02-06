@@ -32,8 +32,11 @@
                         <li><a href="#section3">Contact</a></li>
                     </ul>
                     <ul class="nav navbar-nav navbar-right">
-                        <li><a href="#"><span class="glyphicon glyphicon-user"></span>Sign Up</a></li>
-                        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span>Login</a></li>
+                        <!--<li><a href="#"><span class="glyphicon glyphicon-user"></span>Sign Up</a></li>
+                        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span>Login</a></li>-->
+                        <li class="nav-item"><a class="nav-link" target="_blank" href="./Stefan Mitic Resume.pdf">Resume</a></li>
+                        <li class="nav-item"><a class="nav-link" href="https://github.com/Stefan-Mitic" target="_blank"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a></li>
+                        <li class="nav-item"><a class="nav-link" href="https://www.linkedin.com/in/stefan-mitic/" target="_blank"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a></li>
                     </ul>
                 </div>
             </div>
