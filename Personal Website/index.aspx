@@ -11,8 +11,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <%--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.4.5/css/mdb.min.css" />--%>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <%--<script src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.4.5/js/mdb.min.js"></script>--%>
 </head>
 <body data-spy="scroll" data-target=".navbar" data-offset="50">
     <nav class="navbar navbar-inverse navbar-fixed-top">
@@ -56,10 +58,16 @@
         <h1>Section 3</h1>
 
     </div>
-    <footer>
-        <div class="text-center">
-            <a href="https://github.com/Stefan-Mitic" target="_blank"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
-            <a href="https://www.linkedin.com/in/stefan-mitic/" target="_blank"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a>
+    <footer class="panel-footer" style="background-color: #222;">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12">
+                    <%--<div style="right: 0vh; position: absolute">--%>
+                        <a href="https://github.com/Stefan-Mitic" target="_blank"><i class="fa fa-github fa-2x" aria-hidden="true" style="padding: 5vh;"></i></a>
+                        <a href="https://www.linkedin.com/in/stefan-mitic/" target="_blank"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a>
+                    <%--</div>--%>
+                </div>
+            </div>
         </div>
     </footer>
 </body>
