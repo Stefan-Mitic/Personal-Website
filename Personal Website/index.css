@@ -1,2 +1,15 @@
 ﻿body {
 }
+
+.footer-text {
+    color: gray;
+}
+
+.panel-footer {
+    background-color: #222;
+}
+
+.section {
+    padding-top: 50px;
+    height: 100vh;
+}
