@@ -49,7 +49,13 @@
             <h2>Hello, my name is Stefan Mitic</h2>
             <p>2nd year Computer Science student</p>
             <h4><br />Current Courses:</h4>
-            <p>Software Tools and Systems Programming, Design and Analysis of Data Structures, Software Design, Computer Organization</p>
+            <ul>
+                <li>Software Tools and Systems Programming</li>
+                <li>Design and Analysis of Data Structures</li>
+                <li>Computer Organization</li>
+                <li>Introduction to Statistics</li>
+                <li>Managing the Business Organization</li>
+            </ul>
         </div>
         <div id="section2" class="container-fluid" style="padding-top: 50px; height: 100vh;">
             <h1>Section 2</h1>
