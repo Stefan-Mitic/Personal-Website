@@ -9,6 +9,10 @@
     background-color: #222;
 }
 
+    .panel-footer a {
+        padding: 10px;
+    }
+
 .section {
     padding-top: 50px;
     height: 100vh;

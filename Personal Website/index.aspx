@@ -69,16 +69,16 @@
     </div>
     <footer class="panel-footer">
         <div class="container-fluid">
-            <div class="row">
-                <div class="col-sm-8">
+            <div class="text-center">
+<%--                <div class="col-sm-6">--%>
                     <h3 class="footer-text">Check out my personal accounts:</h3>
-                </div>
-                <div class="col-sm-4">
+<%--                </div>
+                <div class="col-sm-4">--%>
                     <%--<div style="right: 0vh; position: absolute">--%>
-                    <a href="https://github.com/Stefan-Mitic" target="_blank"><i class="fa fa-github fa-2x" aria-hidden="true" style="padding: 5vh;"></i></a>
-                    <a href="https://www.linkedin.com/in/stefan-mitic/" target="_blank"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a>
+                    <a href="https://github.com/Stefan-Mitic" target="_blank"><i class="fa fa-github fa-3x" aria-hidden="true"></i></a>
+                    <a href="https://www.linkedin.com/in/stefan-mitic/" target="_blank"><i class="fa fa-linkedin fa-3x" aria-hidden="true"></i></a>
                     <%--</div>--%>
-                </div>
+<%--                </div>--%>
             </div>
         </div>
     </footer>
