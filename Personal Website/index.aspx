@@ -43,20 +43,22 @@
             </div>
         </div>
     </nav>
-    <!--Example for information-->
-    <div id="section1" class="container-fluid" style="padding-top: 50px; height: 100vh;">
-        <h1>Section 1</h1>
-        <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
-        <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
-    </div>
-    <div id="section2" class="container-fluid" style="padding-top: 50px; height: 100vh;">
-        <h1>Section 2</h1>
-        <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
-        <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
-    </div>
-    <div id="section3" class="container-fluid" style="padding-top: 50px; height: 100vh;">
-        <h1>Section 3</h1>
-
+    <div class="container-fluid">
+        <!--Example for information-->
+        <div id="section1" class="container-fluid" style="padding-top: 50px; height: 100vh;">
+            <h2>Hello, my name is Stefan Mitic</h2>
+            <p>2nd year Computer Science student</p>
+            <h4><br />Current Courses:</h4>
+            <p>Software Tools and Systems Programming, Design and Analysis of Data Structures, Software Design, Computer Organization</p>
+        </div>
+        <div id="section2" class="container-fluid" style="padding-top: 50px; height: 100vh;">
+            <h1>Section 2</h1>
+            <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+            <p>Try to scroll this section and look at the navigation bar while scrolling! Try to scroll this section and look at the navigation bar while scrolling!</p>
+        </div>
+        <div id="section3" class="container-fluid" style="padding-top: 50px; height: 100vh;">
+            <h1>Section 3</h1>
+        </div>
     </div>
     <footer class="panel-footer" style="background-color: #222;">
         <div class="container-fluid">
