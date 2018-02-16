@@ -23,3 +23,13 @@
     .panel-footer a {
         padding: 10px;
     }
+
+.img-responsive {
+    display: block;
+    max-width: inherit; /*33.33%*/
+    height: auto;
+}
+
+.img-rounded {
+    border-radius: 50px;
+}
