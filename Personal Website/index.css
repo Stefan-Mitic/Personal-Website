@@ -24,12 +24,12 @@
         padding: 10px;
     }
 
-.img-responsive {
+.thumbnail img-responsive {
     display: block;
     max-width: inherit; /*33.33%*/
     height: auto;
 }
 
-.img-rounded {
+.thumbnail img-rounded {
     border-radius: 50px;
 }
