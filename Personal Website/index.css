@@ -31,8 +31,8 @@
 
 .img-responsive {
     display: block;
-    max-width: 100%;
+    max-width: 200px;
     margin-left: auto;
     margin-right: auto;
-    height: auto;
+    height: 200px;
 }
