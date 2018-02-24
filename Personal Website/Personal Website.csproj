@@ -70,6 +70,7 @@
   <ItemGroup>
     <None Include="packages.config" />
     <Content Include="Images\project_lastofme.png" />
+    <Content Include="Images\project_solidbankapp.png" />
     <Content Include="Images\project_taptapthepegs.png" />
     <Content Include="index.css" />
     <Content Include="index.html" />
