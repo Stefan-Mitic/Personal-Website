@@ -74,9 +74,15 @@
     <Content Include="Images\project_taptapthepegs.png" />
     <Content Include="index.css" />
     <Content Include="index.html" />
-    <Content Include="Scripts\LICENSE" />
-    <Content Include="Scripts\package.json" />
-    <Content Include="Scripts\README.md" />
+    <Content Include="Scripts\scrollreveal\scrollreveal.js" />
+    <Content Include="Scripts\scrollreveal\scrollreveal.min.js" />
+    <Content Include="Scripts\zenscroll\LICENSE" />
+    <Content Include="Scripts\zenscroll\package.json" />
+    <Content Include="Scripts\zenscroll\README.md" />
+    <Content Include="Scripts\scrollreveal\bower.json" />
+    <Content Include="Scripts\scrollreveal\CHANGELOG.md" />
+    <Content Include="Scripts\scrollreveal\LICENSE.md" />
+    <Content Include="Scripts\scrollreveal\README.md" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -85,8 +91,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Scripts\zenscroll-min.js" />
-    <Content Include="Scripts\zenscroll.js" />
+    <Content Include="Scripts\zenscroll\zenscroll-min.js" />
+    <Content Include="Scripts\zenscroll\zenscroll.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
