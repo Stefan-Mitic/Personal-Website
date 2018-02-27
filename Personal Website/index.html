@@ -15,6 +15,20 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.4.5/js/mdb.min.js"></script>-->
 
+    <script src="Scripts/scrollreveal/scrollreveal.js"></script>
+    <script src="Scripts/scrollreveal/scrollreveal.min.js"></script>
+    <script>
+        window.sr = ScrollReveal({ duration: 1000 });
+        if (sr.isSupported()) {
+            document.documentElement.classList.add('sr');
+        }
+    </script>
+    <style>
+        .sr .foo {
+            visibility: hidden;
+        }
+    </style>
+
 </head>
 <body data-spy="scroll" data-target=".navbar" data-offset="50">
     <nav class="navbar navbar-inverse navbar-fixed-top">
@@ -41,7 +55,7 @@
             </div>
         </div>
     </nav>
-    <div class="jumbotron" id="home">
+    <div class="jumbotron foo" id="home">
         <div class="container">
             <!--Example for information-->
             <h2>Hello, my name is Stefan Mitic</h2>
@@ -59,7 +73,7 @@
             </ul>
         </div>
     </div>
-    <div class="jumbotron" id="projects">
+    <div class="jumbotron foo" id="projects">
         <div class="container">
             <h1>Projects</h1>
             <div class="row">
@@ -81,7 +95,7 @@
             </div>
         </div>
     </div>
-    <div class="jumbotron" id="work">
+    <div class="jumbotron foo" id="work">
         <div class="container">
             <h1>Work Experience</h1>
             <p>Add text here.</p>
@@ -98,5 +112,8 @@
     </footer>
     <script src="Scripts/zenscroll/zenscroll-min.js"></script>
     <script src="Scripts/scrollreveal/scrollreveal.min.js"></script>
+    <script>
+        sr.reveal('.foo');
+    </script>
 </body>
 </html>
