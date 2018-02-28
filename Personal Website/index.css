@@ -1,8 +1,9 @@
 ﻿body {
+    font-family: 'Roboto', sans-serif;
 }
 
 .container {
-    /*font-size: ;*/
+    font-size: 26px;
 }
 
 .jumbotron {
@@ -10,6 +11,15 @@
     margin-bottom: 1rem;
     border-radius: .3rem;*/
     background-color: lightgray;
+}
+
+h4 {
+    font-size: 28px;
+}
+
+.courselist {
+    list-style-type: none;
+    font-size: 22px;
 }
 
 .footer-text {
