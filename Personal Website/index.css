@@ -13,8 +13,18 @@
     background-color: lightgray;
 }
 
+h2 {
+    font-size: 32px;
+}
+
 h4 {
-    font-size: 28px;
+    font-size: 26px;
+}
+
+.devicon {
+    margin: 0;
+    color: dodgerblue;
+    font-size: 9rem;
 }
 
 .courselist {
