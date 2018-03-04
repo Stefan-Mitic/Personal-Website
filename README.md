@@ -3,4 +3,4 @@ Creating personal website from scratch about myself, getting familiar with HTML,
 
 Implementing Bootstrap scripts and content.
 
-#Link to the site: www.stefanmitic.com
+## Link to the site: www.stefanmitic.com
