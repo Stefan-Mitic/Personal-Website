@@ -1,6 +1,6 @@
 # Personal-Website
-Creating personal website, getting familiar with ASP.NET through Visual Studio.
-
-This project primarily involves me trying to learn to use Microsoft .NET web services and program with C#.
+Creating personal website from scratch about myself, getting familiar with HTML, CSS, and Javascript.
 
 Implementing Bootstrap scripts and content.
+
+#Link to the site: www.stefanmitic.com
