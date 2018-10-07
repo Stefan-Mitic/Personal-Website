@@ -69,6 +69,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <Content Include="Images\background_blackwood.jpg" />
+    <Content Include="Images\background_lightwood.jpg" />
+    <Content Include="Images\background_steel.jpg" />
     <Content Include="Images\project_lastofme.png" />
     <Content Include="Images\project_solidbankapp.png" />
     <Content Include="Images\project_taptapthepegs.png" />
