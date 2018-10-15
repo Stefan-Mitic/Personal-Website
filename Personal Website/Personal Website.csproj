@@ -72,9 +72,11 @@
     <Content Include="Images\background_blackwood.jpg" />
     <Content Include="Images\background_lightwood.jpg" />
     <Content Include="Images\background_steel.jpg" />
+    <Content Include="Images\profile_pic.jpg" />
     <Content Include="Images\project_lastofme.png" />
     <Content Include="Images\project_solidbankapp.png" />
     <Content Include="Images\project_taptapthepegs.png" />
+    <Content Include="Images\waterpolo_pic.jpg" />
     <Content Include="index.css" />
     <Content Include="index.html" />
     <Content Include="Scripts\scrollreveal\scrollreveal.js" />
