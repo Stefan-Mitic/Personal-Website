@@ -17,6 +17,11 @@
     padding-top: 50px;
 }
 
+.odd {
+    background-image: url('Images/background_blackwood.jpg');
+    color: white;
+}
+
 h2 {
     font-size: 32px;
 }
